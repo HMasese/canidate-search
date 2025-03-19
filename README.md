@@ -19,7 +19,6 @@
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Snapshot](#snapshot)
 - [Links](#links)
 
 ## Installation
