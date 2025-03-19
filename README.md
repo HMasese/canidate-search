@@ -32,7 +32,7 @@ npm run start
 The main page displays candidate search functionality where you can search for candidates based on some predefined criteria (e.g., name, location, etc.). The results will be displayed as cards showing basic information such as name, location, and email.By clicking the "Save" button on any candidate's card, the candidate will be added to the "Saved Candidates" page, which is stored locally in the browser's Local Storage. This allows you to persist the data even after a page refresh.Navigate to the "Saved Candidates" page to view all candidates that have been saved. This page retrieves the data from Local Storage and displays it dynamically.
 
 ## Credits
-Fork the repository push changes.
+phil, dylan, aley, nicole
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
